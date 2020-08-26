@@ -142,3 +142,12 @@ List of jornals and conferences in bioinformatic
 35|SPIE Photonics West||C
 36|SPIE Photonics Asia||C
 37|IEEE International Conference on Bioinformatics and Biomedicine|BIBM|C
+38|International Conference on Bioinformatics|InCoB|C
+39|International Conference on Genome Informatics|GIW|C
+40|International Workshop on Data Mining in Bioinformatics|BIOKDD|C
+41|The Asia Pacific Bioinformatics Conference|APBC|C
+42|Annual Meeting of International Society for Magnetic Resonance in Medicine|ISMRM|C
+43|IEEE AP-S Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting|APS/URSI|C
+44|Asia-Pacific Microwave Conference|APMC|C
+45|European Conference on Antennas and Propagation|EuCAP|C
+46|IEEE International Microwave Biomedical Conference|IMBioC|C
