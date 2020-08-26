@@ -6,8 +6,8 @@ DDL 按照 YYYY-MM-DD 格式填写
 
 ## Journals
 
-|No|Jorunal Name|Short Name|Class|DDL|
-|-|-|-|-|-|
+|No|Jorunal Name|Short Name|Class|DDL|Info|
+|-|-|-|-|-|-|
 |1|Human Brain Mapping||A||
 |2|IEEE Transactions on Biomedical Engineering|TBME|A||
 |3|IEEE Transactions on Image processing|TIP|A||
@@ -105,8 +105,8 @@ DDL 按照 YYYY-MM-DD 格式填写
 
 ## Conferences
 
-|No|Conference Name|Short Name|Class|DDL|
-|-|-|-|-|-|
+|No|Conference Name|Short Name|Class|DDL|Info|
+|-|-|-|-|-|-|
 1|Real Time Systems Symposium|RTSS|A
 2|Computer Aided Verification|CAV|A
 3|International Conference on Machine Learning|ICML|A
