@@ -2,6 +2,8 @@
 
 List of jornals and conferences in bioinformatic
 
+DDL 按照 YYYY-MM-DD 格式填写
+
 ## Journals
 
 |No|Jorunal Name|Short Name|Class|DDL|
