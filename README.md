@@ -43,10 +43,10 @@ DDL 按照 YYYY-MM-DD 格式填写
 34|Nucleic Acids Research||A
 35|IEEE Transactions on Antennas and Propagation||A
 36|IEEE Transactions on Microwave Theory and Techniques||A
-37|ACM Transactions of Embedded Computing Systems TECS||A
+37|ACM Transactions of Embedded Computing Systems|TECS|A|
 38|Journal of Magnetic Resonance Imaging||B
 39|Magnetic Resonance Imaging|MRI|B
-40|Neurocomputing||B
+40|Neurocomputing||B|Biomonthly|https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6141; Aspect: Neurocomputing theory, practice and applications + Software|https://www.elsevier.com/journals/neurocomputing/0925-2312/guide-for-authors|
 41|Pattern Recognition|PR|B
 42|Pattern Recognition Letters||B
 43|Frontiers in Neurology||B
